@@ -1,9 +1,8 @@
 # 👨‍💻 Abdulrahman Elsadiq
 
-**Undergraduate Digital Designer | Passionate about Digital IC Design**
+**Passionate about Digital IC Design && Machine learning**
 
-📞 +201221572683 | 📧 abdelrhmanelsadiq53@gmail.com  
-[LinkedIn](https://linkedin.com/in/elsadiq) | [GitHub](https://github.com/elsadiq7)
+
 
 ---
 
