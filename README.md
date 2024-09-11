@@ -59,7 +59,7 @@ Relevant Courses: Logic Design, Computer Architecture, VLSI, DSP, Digital IC Des
 
 - **HDL (RTL):** Verilog  
 - **FPGA Flow:** Vivado  
-- **Logic Synthesis:** Synopsys Design Compiler  
+- **ASIC Flow:** Synopsys FLOW  
 - **VLSI Design:** Cadence  
 - **Programming:** Python, C/C++, TCL  
 - **Digital Signal Processing:** DPD, CFR, DDC, DUC  
