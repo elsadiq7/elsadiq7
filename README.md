@@ -1,16 +1,82 @@
-## Hi there 👋
+# 👨‍💻 Abdulrahman Elsadiq
 
-<!--
-**elsadiq7/elsadiq7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Undergraduate Digital Designer | Passionate about Digital IC Design**
 
-Here are some ideas to get you started:
+📞 +201221572683 | 📧 abdelrhmanelsadiq53@gmail.com  
+[LinkedIn](https://linkedin.com/in/elsadiq) | [GitHub](https://github.com/elsadiq7)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📝 **Summary**
+
+I am a senior student of Electronics and Communication Engineering, ranked 2nd in my class, with a strong passion for R&D in Digital IC Design. My focus lies in innovating IC chips to solve challenging AI tasks, and I am dedicated to advancing my skills in state-of-the-art technologies.
+
+---
+
+## 🎓 **Education**
+
+**B.Sc. Electronics and Communication Engineering**  
+*Zagazig University (2020-2025)*  
+Grade: **93.5%** (GPA: 3.9/4) — **Ranked 2nd in Class**  
+Relevant Courses: Logic Design, Computer Architecture, VLSI, DSP, Digital IC Design, Programming (C, Python, Java).
+
+---
+
+## 💼 **Experience**
+
+### 🔹 Digital IC Design Intern — **Analog Devices**  
+*Dec 2023 – Present*  
+- Contributed to digital design for ASIC/FPGA flows.  
+- Worked on DSP systems for 5G DFE/low-PHY level systems.  
+- Solved complex issues such as DPD, CFR, DDC, and DUC.
+
+### 🔹 Digital IC Design Intern — **ITI (Smart Village)**  
+*Jul 2024 – Aug 2024*  
+- Designed digital systems using Verilog & VHDL.  
+- Experience with Synopsys tools for Digital IC Flow, STA, and DFT.
+
+### 🔹 Undergraduate Research Assistant — **Nile University**  
+*May 2024 – Present*  
+- Focused on AI accelerators, Verilog for hardware description, and FPGA flow using Vivado.
+
+---
+
+## 🚀 **Projects**
+
+### 🖥️ **Handwritten Digit Classifier on FPGA**  
+- Developed a neural network-based handwritten digit classifier.  
+- Converted the model into hardware for FPGA implementation.
+
+### 🔧 **Single-Cycle RISC-V Processor with Cache (RTL)**  
+- Designed and implemented a single-cycle RISC-V processor with cache memory in Verilog.
+
+### 🎵 **Music Generation using LSTM**  
+- Created a music generation model utilizing LSTM networks to generate sequences.
+
+### 🐍 **Python Script for Verilog Automation**  
+- Automated Verilog module generation with Python scripting.
+
+---
+
+## 🛠 **Skills**
+
+- **HDL (RTL):** Verilog  
+- **FPGA Flow:** Vivado  
+- **Logic Synthesis:** Synopsys Design Compiler  
+- **VLSI Design:** Cadence  
+- **Programming:** Python, C/C++, TCL  
+- **Digital Signal Processing:** DPD, CFR, DDC, DUC  
+- **Machine Learning:** CNN, RNN, LSTM, Decision Trees, Random Forest
+
+---
+
+## 🎓 **Certifications**
+
+- **Digital ASIC Design with Verilog** — Dr. Paul Franzon (Feb. 2024)  
+- **Machine Learning Specialization** — Coursera (Mar. 2024)
+
+---
+
+## 🌐 **Connect with Me**
+
+[LinkedIn](https://linkedin.com/in/elsadiq) | [GitHub](https://github.com/elsadiq7)
