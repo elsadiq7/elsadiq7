@@ -26,10 +26,7 @@ Relevant Courses: Logic Design, Computer Architecture, VLSI, DSP, Digital IC Des
 ---
 
 ## 💼 **Experience**
-### 🔹 Undergraduate Research Assistant — **Nile University**  
-*Dec 2023 – Present*  
-- Focused on AI accelerators, Verilog for hardware description, and FPGA flow using Vivado.
-  
+
 ### 🔹 Digital IC Design Intern — **Analog Devices** 
 *sep 2024 – Present*  
 
