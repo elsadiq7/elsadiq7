@@ -75,5 +75,5 @@ Relevant Courses: Logic Design, Computer Architecture, VLSI, DSP, Digital IC Des
 ---
 
 ## 🌐 **Connect with Me**
-
+📞 +201221572683 | 📧 abdelrhmanelsadiq53@gmail.com  
 [LinkedIn](https://linkedin.com/in/elsadiq) | [GitHub](https://github.com/elsadiq7)
