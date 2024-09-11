@@ -2,6 +2,10 @@
 
 **Passionate about Digital IC Design && Machine learning**
 
+📞 +201221572683 | 📧 abdelrhmanelsadiq53@gmail.com  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://linkedin.com/in/elsadiq) 
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/elsadiq7)
 
 
 ---
@@ -74,6 +78,3 @@ Relevant Courses: Logic Design, Computer Architecture, VLSI, DSP, Digital IC Des
 
 ---
 
-## 🌐 **Connect with Me**
-📞 +201221572683 | 📧 abdelrhmanelsadiq53@gmail.com  
-[LinkedIn](https://linkedin.com/in/elsadiq) | [GitHub](https://github.com/elsadiq7)
