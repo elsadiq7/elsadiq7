@@ -16,13 +16,16 @@ I am a senior student of Electronics and Communication Engineering, ranked 2nd i
 
 **B.Sc. Electronics and Communication Engineering**  
 *Zagazig University (2020-2025)*  
-Grade: **93.5%** (GPA: 3.9/4) — **Ranked 2nd in Class**  
+Grade: **excellent**  
 Relevant Courses: Logic Design, Computer Architecture, VLSI, DSP, Digital IC Design, Programming (C, Python, Java).
 
 ---
 
 ## 💼 **Experience**
-
+### 🔹 Undergraduate Research Assistant — **Nile University**  
+*May 2024 – Present*  
+- Focused on AI accelerators, Verilog for hardware description, and FPGA flow using Vivado.
+  
 ### 🔹 Digital IC Design Intern — **Analog Devices**  
 *Dec 2023 – Present*  
 - Contributed to digital design for ASIC/FPGA flows.  
@@ -33,11 +36,6 @@ Relevant Courses: Logic Design, Computer Architecture, VLSI, DSP, Digital IC Des
 *Jul 2024 – Aug 2024*  
 - Designed digital systems using Verilog & VHDL.  
 - Experience with Synopsys tools for Digital IC Flow, STA, and DFT.
-
-### 🔹 Undergraduate Research Assistant — **Nile University**  
-*May 2024 – Present*  
-- Focused on AI accelerators, Verilog for hardware description, and FPGA flow using Vivado.
-
 ---
 
 ## 🚀 **Projects**
