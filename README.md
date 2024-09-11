@@ -3,7 +3,7 @@
 **Passionate about Digital IC Design && Machine learning**
 
 📞 +201221572683 | 📧 abdelrhmanelsadiq53@gmail.com  
-
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Contact-25D366?logo=whatsapp&logoColor=white)](https://wa.me/201221572683)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://linkedin.com/in/elsadiq) 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/elsadiq7)
 
