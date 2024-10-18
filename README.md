@@ -19,8 +19,6 @@ An Electronics and Communication Engineering senior student, ranked 2nd in my cl
 
 **B.Sc. Electronics and Communication Engineering**  
 *Zagazig University (2020-2025)*  
-Grade: **93.5% (GPA: 3.9/4)**  
-Ranked: **2nd in Class**  
 Relevant Courses: Logic Design, Computer Architecture, Electronics, Circuits Analysis, VLSI, DSP, Programming (Java, C).
 
 ---
