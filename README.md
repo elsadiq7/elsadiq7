@@ -1,127 +1,131 @@
-<h1 align="center">👨‍💻 Abdulrahman Elsadiq</h1>
-<h3 align="center">Senior ECE Student | Digital IC Designer | AI Hardware Engineer</h3>
+# 👨‍💻 Abdulrahman Elsadiq
 
-<p align="center">
-  <a href="mailto:abdelrhmanelsadiq53@gmail.com"><img src="https://img.shields.io/badge/Gmail-abdelrhmanelsadiq53@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://wa.me/201221572683"><img src="https://img.shields.io/badge/WhatsApp-Message-25D366?style=flat&logo=whatsapp&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/elsadiq"><img src="https://img.shields.io/badge/LinkedIn-elsadiq-blue?style=flat&logo=linkedin"/></a>
-  <a href="https://github.com/elsadiq7"><img src="https://img.shields.io/badge/GitHub-elsadiq7-black?style=flat&logo=github"/></a>
-</p>
+**🎓 Senior ECE Student | 🧠 AI + Digital IC Designer | ⚡ FPGA & ASIC Enthusiast**
+
+[![Email](https://img.shields.io/badge/Gmail-abdelrhmanelsadiq53@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:abdelrhmanelsadiq53@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Message-25D366?logo=whatsapp&logoColor=white)](https://wa.me/201221572683)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Elsadiq-blue?logo=linkedin)](https://linkedin.com/in/elsadiq)
+[![GitHub](https://img.shields.io/badge/GitHub-elsadiq7-black?logo=github)](https://github.com/elsadiq7)
 
 ---
 
 ## 🧠 About Me
 
-🎓 Electronics & Communication Engineering student @ **Zagazig University**, GPA **3.9/4.0**, **Ranked 2nd**
+Top-ranked Electronics & Communication Engineering student at Zagazig University .  
+I build efficient **AI systems on hardware** using **FPGA/ASIC design**, specializing in **Verilog**, **SystemVerilog**, and **deep learning deployment**.
 
-⚙️ Passionate about **Digital IC Design**, **AI Hardware Acceleration**, and building efficient **ML pipelines on FPGAs**
-
-🚀 Strong in RTL, SystemVerilog verification, ML model deployment, and ASIC/FPGA flows
+I’m passionate about **R&D in digital IC design**, ML acceleration, and building future-ready AI chips.
 
 ---
 
 ## 🎓 Education
 
-**B.Sc. in Electronics and Communication Engineering**  
-**Zagazig University** — *2020 - 2025*  
-📍 GPA: 3.9 / 4.0 (93.5%) | 🥈 Ranked 2nd  
-📘 Key Courses: VLSI, Logic Design, DSP, Computer Architecture, Control Theory, Java, C
+**B.Sc. Electronics and Communication Engineering**  
+Zagazig University — *Aug 2020 – Jul 2025*  
+📚 Courses: VLSI Design, Logic Design, DSP, Computer Architecture, Circuits Analysis, Java, C
 
 ---
 
 ## 💼 Experience
 
-### 🔬 Research Intern — *Prof. Lobna A. Said's Lab*  
-**Remote | Dec 2023 – Jun 2025**  
-- 🧠 Developed spiking neural networks (SNN) for gesture classification  
-- 🛠️ Full ML-to-FPGA pipeline using Vivado and QuestaSim  
-- 💻 RTL design and verification for accelerators
+### 🔬 Research Intern — Prof. Lobna A. Said  
+📍 Remote | 📆 Dec 2023 – Jun 2025  
+- Developed SNNs for DVS-128 gesture classification  
+- Built ML training + FPGA deployment pipeline  
+- Vivado, QuestaSim, Verilog
 
-### 🤖 Generative AI Intern — *Digital Egypt Pioneers Initiative (DEPI)*  
-**Online | May – Oct 2024**  
-- 🔍 Deep Learning: CNN, RNN, LSTM, Attention, GANs  
-- ⚙️ MLOps: Hugging Face, MLflow  
-- 📊 NLP projects with transformers and text generation
+### 🤖 Generative AI Intern — DEPI (Digital Egypt Pioneers)  
+📍 Online | 📆 May – Oct 2024  
+- Deep Learning: CNN, RNN, LSTM, Attention, GANs  
+- MLOps: MLflow, Hugging Face  
+- NLP + Generative AI systems
 
-### 🛠 Digital IC Intern — *Analog Devices*  
-**Cairo, Egypt | Sep – Oct 2024**  
-- 🔧 Designed DSP modules: FIR, CORDIC, DPD  
-- ✅ Verified with SystemVerilog & CoCoTB
+### 🛠 Digital IC Intern — Analog Devices  
+📍 Cairo | 📆 Sep – Oct 2024  
+- DSP modules: FIR, CORDIC, DPD  
+- FPGA verification using SystemVerilog & CoCoTB
 
-### 🧩 Digital IC Intern — *ITI Smart Village*  
-**Giza, Egypt | Jul – Aug 2024**  
-- 💡 RTL in Verilog & VHDL  
-- 🔄 ASIC Flow: Synopsys ICC2, Spyglass, DC  
-- 🧪 DFT, STA, CDC training
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Tools |
-|--------|-------------|-------|
-| **🧠 FPGA AI Accelerator** | Built a CNN-based X-ray classifier on FPGA with RAM file automation | Python, Vivado, Verilog |
-| **📦 SNN Gesture Classifier** | Event-driven classifier using DVS-128 for efficient AI on edge | Python, Vivado, Verilog |
-| **🏥 Medical Diagnosis GUI** | GUI app using CNNs for chest X-ray disease detection | Python, Tkinter, TensorFlow |
-| **💾 RISC-V Processor** | RTL design with cache, pipelining, and instruction support | Verilog, Vivado |
-| **🔁 QR Matrix Inversion** | Optimized CORDIC-based FPGA module for matrix inversion | C, Verilog |
-| **🧪 ALU + FIFO Verification** | 100% coverage testbenches using SV UVM-like env | SystemVerilog |
-| **🐍 Verilog Auto Generator** | Python script to autogen Verilog modules/testbenches | Python |
+### 🧩 Digital IC Intern — ITI (Smart Village)  
+📍 Giza | 📆 Jul – Aug 2024  
+- RTL design using Verilog/VHDL  
+- ASIC flow: Spyglass, ICC2, Design Compiler  
+- STA, CDC, DFT experience
 
 ---
 
-## 🔧 Skills
+## 🚀 Projects
 
-### 💻 Programming & Scripting  
-`Python` | `C/C++` | `TCL` | `MySQL`
+### 🧠 FPGA Deep Learning Accelerator  
+> AI on hardware: chest X-ray classification  
+- Quantized + converted CNN models  
+- RAM file generation, Vivado deployment
 
-### 📐 Digital & RTL Design  
-`Verilog` | `SystemVerilog` | `VHDL`  
-`Vivado` | `QuestaSim` | `Spyglass` | `ICC2` | `Design Compiler`
+### 🤖 Event-Based SNN Classifier  
+> Lightweight gesture recognition using Spiking Neural Networks  
+- Optimized for speed and accuracy on FPGA
 
-### 🤖 Machine Learning  
-`CNN` | `RNN` | `LSTM` | `GAN` | `SNN` | `YOLO` | `Faster-RCNN`  
-`TensorFlow` | `PyTorch` | `scikit-learn` | `OpenCV` | `MLflow` | `Hugging Face`
+### 🏥 Medical Image Analysis Tool  
+> GUI + CNN-based diagnostic aid for chest X-rays
 
-### 📊 Data & Image Processing  
-`Pandas` | `NumPy` | `Matplotlib`  
-`Histogram Equalization`, `Morphological Ops`, `Filtering`
+### 💾 Single-Cycle RISC-V with Cache  
+> RTL CPU design using Verilog  
+- Verified and tested with custom instructions
 
-### 🛠 Automation  
-Python scripting for Verilog & testbench generation
+### 🔁 Matrix Inversion via QR Decomposition  
+> FPGA block using CORDIC  
+- Optimized for 3×3 matrices
+
+### 🧪 Digital Design Verification Environment  
+> 100% coverage on ALU and FIFO using SystemVerilog  
+- 50K+ random test generation
+
+### 🐍 Verilog Auto-Generator  
+> Python script to auto-generate Verilog modules and testbenches
+
+---
+
+## 🛠️ Skills
+
+**Languages:** Python, C/C++, TCL, MySQL  
+**Digital Design:** Verilog, SystemVerilog, VHDL  
+**ML/DL:** CNN, RNN, LSTM, GANs, SNNs, Transfer Learning  
+**Frameworks:** TensorFlow, PyTorch, scikit-learn, OpenCV  
+**EDA Tools:** Vivado, QuestaSim, Synopsys (Spyglass, ICC2, DC)  
+**MLOps:** MLflow, Hugging Face  
+**Scripting & Automation:** Python-based flows for RTL automation  
+**Image Processing:** Filtering, Morphology, Histogram EQ
 
 ---
 
 ## 📜 Certifications
 
-✅ **Machine Learning Specialization** – Coursera (2024)  
-✅ **Digital ASIC Design** – Dr. Paul Franzon (2024)  
-✅ **Generative AI** – DEPI (2024)  
-✅ **VLSI Verification & Testing** – Dr. Ayman Wahba (2024)  
-✅ **Advanced Data Analysis** – Udacity (2022)
+- **Machine Learning Specialization** – Coursera (2024)  
+- **Digital ASIC Design with Verilog** – Dr. Paul Franzon (2024)  
+- **Generative AI Specialization** – DEPI (2024)  
+- **VLSI Verification & Testing** – Dr. Ayman Wahba (2024)  
+- **Advanced Data Analysis** – Udacity (2022)  
 
 ---
 
 ## 📚 Publications
 
-📝 **"FPGA-based Neural Network for Arabic and English Handwritten Digit Recognition"**  
-📍 *SMACD 2025 (Accepted)*
+**"FPGA-based Neural Network for Arabic and English Handwritten Digit Recognition"**  
+🗓 To appear at SMACD 2025
 
 ---
 
 ## 🤝 Volunteering
 
-👨‍🏫 **Egypt Scholars Inc.** — Research & Outreach (2023–2025)  
-🎓 **IEEE Zagazig Student Chapter** — Member (2021–2023)
+- 🎓 **Egypt Scholars Inc.** — Research Mentorship (2023–2025)  
+- 💡 **IEEE Zagazig Student Chapter** — Member & Event Coordinator (2021–2023)
 
 ---
 
 ## 🌐 Languages
 
-- 🇪🇬 **Arabic** – Native  
-- 🇬🇧 **English** – Upper Intermediate (B2+)
+- 🇪🇬 Arabic — Native  
+- 🇬🇧 English — Upper Intermediate (B2+)
 
 ---
 
-> _“Accelerating intelligence — one gate at a time.”_
-
+> ⚡ “Accelerating AI... one logic gate at a time.”
