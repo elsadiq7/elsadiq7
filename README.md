@@ -5,8 +5,6 @@
 [![Email](https://img.shields.io/badge/Gmail-abdelrhmanelsadiq53@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:abdelrhmanelsadiq53@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Message-25D366?logo=whatsapp&logoColor=white)](https://wa.me/201221572683)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Elsadiq-blue?logo=linkedin)](https://linkedin.com/in/elsadiq)
-[![GitHub](https://img.shields.io/badge/GitHub-elsadiq7-black?logo=github)](https://github.com/elsadiq7)
-
 ---
 
 ## 🧠 About Me
