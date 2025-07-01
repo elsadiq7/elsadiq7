@@ -1,6 +1,6 @@
 # 👨‍💻 Abdulrahman Elsadiq
 
-**🎓 Senior ECE Student | 🧠 AI + Digital IC Designer | ⚡ FPGA & ASIC Enthusiast**
+**🎓 Senior ECE Student | 🧠 ML Engineer | ⚡ FPGA &  Digital IC Designer**
 
 [![Email](https://img.shields.io/badge/Gmail-abdelrhmanelsadiq53@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:abdelrhmanelsadiq53@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Message-25D366?logo=whatsapp&logoColor=white)](https://wa.me/201221572683)
