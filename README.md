@@ -1,93 +1,130 @@
 # 👨‍💻 Abdulrahman Elsadiq
 
-**Passionate about Digital IC Design & Machine Learning**
+**🎓 Senior ECE Student | 🧠 AI + Digital IC Designer | ⚡ FPGA & ASIC Enthusiast**
 
-[![Email](https://img.shields.io/badge/Email-Send%20Mail-D14836?logo=gmail&logoColor=white)](mailto:abdelrhmanelsadiq53@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Contact-25D366?logo=whatsapp&logoColor=white)](https://wa.me/201221572683)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://linkedin.com/in/elsadiq) 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/elsadiq7)
-
----
-
-## 📝 **Summary**
-
-An Electronics and Communication Engineering senior student, ranked 2nd in my class, with a passion for R&D in Digital IC Design, particularly in innovating IC chips for handling challenging AI tasks. I am goal-oriented, self-motivated, and hard-working, with an eagerness for continued skill development in state-of-the-art technologies.
+[![Email](https://img.shields.io/badge/Gmail-abdelrhmanelsadiq53@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:abdelrhmanelsadiq53@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Message-25D366?logo=whatsapp&logoColor=white)](https://wa.me/201221572683)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Elsadiq-blue?logo=linkedin)](https://linkedin.com/in/elsadiq)
+[![GitHub](https://img.shields.io/badge/GitHub-elsadiq7-black?logo=github)](https://github.com/elsadiq7)
 
 ---
 
-## 🎓 **Education**
+## 🧠 About Me
+
+Top-ranked Electronics & Communication Engineering student at Zagazig University.  
+I build efficient **AI systems on hardware** using **FPGA/ASIC design**, specializing in **Verilog**, **SystemVerilog**, and **deep learning deployment**.
+
+I’m passionate about **R&D in digital IC design**, ML acceleration, and building future-ready AI chips.
+
+---
+
+## 🎓 Education
 
 **B.Sc. Electronics and Communication Engineering**  
-*Zagazig University (2020-2025)*  
-Relevant Courses: Logic Design, Computer Architecture, Electronics, Circuits Analysis, VLSI, DSP, Programming (Java, C).
+Zagazig University — *Aug 2020 – Jul 2025*  
+📚 Courses: VLSI Design, Logic Design, DSP, Computer Architecture, Circuits Analysis, Java, C
 
 ---
 
-## 💼 **Experience**
+## 💼 Experience
 
-### 🔹 Digital IC Design Intern — **Analog Devices**  
-*Cairo, Egypt |  Sep 2024*  
-- Contributed to digital design and implementation for FPGA workflows.  
-- Participated in DSP system design, including FIR, DPD, and CORDIC algorithms.  
-- Verified designs using SystemVerilog and CoCoTB.
+### 🔬 Research Intern — Prof. Lobna A. Said  
+📍 Remote | 📆 Dec 2023 – Jun 2025  
+- Developed SNNs for DVS-128 gesture classification  
+- Built ML training + FPGA deployment pipeline  
+- Vivado, QuestaSim, Verilog
 
-### 🔹 Digital IC Design Intern — **ITI (Smart Village)**  
-*Smart Village, Egypt | Jul 2024*  
-- Designed digital systems using Verilog & VHDL.  
-- Worked on ASIC flow, STA, DFT, and CDC using Synopsys tools such as Spyglass, Design Compiler, and ICC2.  
-- Gained experience in formal verification and static timing analysis.
+### 🤖 Generative AI Intern — DEPI (Digital Egypt Pioneers)  
+📍 Online | 📆 May – Oct 2024  
+- Deep Learning: CNN, RNN, LSTM, Attention, GANs  
+- MLOps: MLflow, Hugging Face  
+- NLP + Generative AI systems
 
-### 🔹 Generative AI Intern — **Digital Egypt Pioneers Initiative (DEPI)**  
-*Online | May 2024 – Present*  
-- Developed deep learning models (ANN, CNN, RNN, LSTM) and NLP with attention models.  
-- Worked on MLOps tools like MLflow and Hugging Face.  
-- Built generative AI pipelines and experimented with GANs.
+### 🛠 Digital IC Intern — Analog Devices  
+📍 Cairo | 📆 Sep – Oct 2024  
+- DSP modules: FIR, CORDIC, DPD  
+- FPGA verification using SystemVerilog & CoCoTB
 
-
-
----
-
-## 🚀 **Projects**
-
-### 🖥️ **ANN Accelerator for Handwritten Digit Classification on FPGA**  
-- Implemented an artificial neural network accelerator for digit recognition using FPGA.
-
-### 🔧 **Single-Cycle RISC-V Processor with Cache (RTL)**  
-- Designed and implemented a single-cycle RISC-V processor with cache memory in Verilog.
-
-### 🔢 **Matrix Inversion 3x3 Using QR Decomposition**  
-- Designed a matrix inversion block using QR decomposition, implemented with CORDIC for FPGA flows.
-
-### 🛠️ **Full Environment for ALU Verification**  
-- Developed a complete verification environment for an ALU using SystemVerilog.
-
-### 🐍 **Python Script for Verilog Automation**  
-- Created a Python script to automatically generate Verilog modules and testbenches.
-
-### 🎵 **Music Generation using LSTM**  
-- Developed a music generation model leveraging LSTM networks.
+### 🧩 Digital IC Intern — ITI (Smart Village)  
+📍 Giza | 📆 Jul – Aug 2024  
+- RTL design using Verilog/VHDL  
+- ASIC flow: Spyglass, ICC2, Design Compiler  
+- STA, CDC, DFT experience
 
 ---
 
-## 🛠 **Skills**
+## 🚀 Projects
 
-- **Digital IC Design:** Verilog, SystemVerilog  
-- **ASIC Flow:** Synopsys (Spyglass, Design Compiler, ICC2, Formal Verification)  
-- **FPGA Flow:** Vivado  
-- **Hardware Modeling:** Python  
-- **Programming:** Python, C/C++, TCL  
-- **Machine Learning:** CNN, RNN, LSTM, Decision Trees, Random Forest  
-- **Digital Signal Processing:** FIR, CORDIC, DPD, IQ Imbalance  
-- **Automation:** Python scripting for Verilog automation  
-- **Tools:** NumPy, Pandas, Matplotlib, TensorFlow, scikit-learn
+### 🧠 FPGA Deep Learning Accelerator  
+> AI on hardware: chest X-ray classification  
+- Quantized + converted CNN models  
+- RAM file generation, Vivado deployment
+
+### 🤖 Event-Based SNN Classifier  
+> Lightweight gesture recognition using Spiking Neural Networks  
+- Optimized for speed and accuracy on FPGA
+
+### 🏥 Medical Image Analysis Tool  
+> GUI + CNN-based diagnostic aid for chest X-rays
+
+### 💾 Single-Cycle RISC-V with Cache  
+> RTL CPU design using Verilog  
+- Verified and tested with custom instructions
+
+### 🔁 Matrix Inversion via QR Decomposition  
+> FPGA block using CORDIC  
+- Optimized for 3×3 matrices
+
+### 🧪 Digital Design Verification Environment  
+> 100% coverage on ALU and FIFO using SystemVerilog  
+- 50K+ random test generation
+
+### 🐍 Verilog Auto-Generator  
+> Python script to auto-generate Verilog modules and testbenches
 
 ---
 
-## 🎓 **Online Courses & Certifications**
+## 🛠️ Skills
 
-- **VLSI Design Verification & Testing** — Dr. Ayman Wahba (Sep. 2024)  
-- **Digital ASIC Design with Verilog** — Dr. Paul Franzon (Feb. 2024)  
-- **Machine Learning Specialization** — Coursera (Mar. 2024)  
-- **Generative AI Specialization** — Digital Egypt Pioneers (2024)
+**Languages:** Python, C/C++, TCL, MySQL  
+**Digital Design:** Verilog, SystemVerilog, VHDL  
+**ML/DL:** CNN, RNN, LSTM, GANs, SNNs, Transfer Learning  
+**Frameworks:** TensorFlow, PyTorch, scikit-learn, OpenCV  
+**EDA Tools:** Vivado, QuestaSim, Synopsys (Spyglass, ICC2, DC)  
+**MLOps:** MLflow, Hugging Face  
+**Scripting & Automation:** Python-based flows for RTL automation  
+**Image Processing:** Filtering, Morphology, Histogram EQ
 
 ---
+
+## 📜 Certifications
+
+- **Machine Learning Specialization** – Coursera (2024)  
+- **Digital ASIC Design with Verilog** – Dr. Paul Franzon (2024)  
+- **Generative AI Specialization** – DEPI (2024)  
+- **VLSI Verification & Testing** – Dr. Ayman Wahba (2024)  
+- **Advanced Data Analysis** – Udacity (2022)  
+
+---
+
+## 📚 Publications
+
+**"FPGA-based Neural Network for Arabic and English Handwritten Digit Recognition"**  
+🗓 To appear at SMACD 2025
+
+---
+
+## 🤝 Volunteering
+
+- 🎓 **Egypt Scholars Inc.** — Research Mentorship (2023–2025)  
+- 💡 **IEEE Zagazig Student Chapter** — Member & Event Coordinator (2021–2023)
+
+---
+
+## 🌐 Languages
+
+- 🇪🇬 Arabic — Native  
+- 🇬🇧 English — Upper Intermediate (B2+)
+
+---
+
