@@ -1,7 +1,6 @@
-# My Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mostafa-Shady&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  https://github.com/elsadiq7/elsadiq7/edit/main/README.md    # 👨‍💻 Abdulrahman Elsadiq
+# 👋 Hi, I’m Abdulrahman Elsadiq  
 
-**🎓 Senior ECE Student | 🧠 ML & Digital Design Engineer | ⚡ FPGA | ASIC | AI Accelerators**
+**🎓 Fresh Electronics and Communication Engineer | 🧠 ML & Digital Design Engineer | ⚡ FPGA | ASIC | AI Accelerators**
 
 [![Email](https://img.shields.io/badge/Gmail-abdelrhmanelsadiq53@gmail.com-D14836?logo=gmail\&logoColor=white)](mailto:abdelrhmanelsadiq53@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Message-25D366?logo=whatsapp\&logoColor=white)](https://wa.me/201221572683)
