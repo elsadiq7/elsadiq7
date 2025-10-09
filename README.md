@@ -96,9 +96,3 @@ I work at the intersection of **machine learning, digital design, and embedded s
 🇬🇧 **English:** Upper Intermediate (B2+)  
 
 ---
-
-## 🤝 Let’s Collaborate  
-
-I’m open to **research roles, internships, and graduate opportunities** in:  
-💡 AI Hardware • LLM Fine-Tuning • FPGA/ASIC for ML • Edge Intelligence • Neuromorphic Computing  
----
