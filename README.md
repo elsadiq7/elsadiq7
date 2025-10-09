@@ -102,12 +102,3 @@ I work at the intersection of **machine learning, digital design, and embedded s
 I’m open to **research roles, internships, and graduate opportunities** in:  
 💡 AI Hardware • LLM Fine-Tuning • FPGA/ASIC for ML • Edge Intelligence • Neuromorphic Computing  
 ---
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elsadiq7&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=elsadiq7&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elsadiq7&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</p>
