@@ -72,24 +72,17 @@ Ranked **2nd** in my class and published at **IEEE SMACD 2025**.
 - Full desktop application  
 - CRUD, validation, responsive UI  
 - Modular JavaFX architecture  
-(📄 from your CV)
 
 ### 🔹 **Social Media Backend (FastAPI + PostgreSQL)**
 - JWT authentication  
 - ORM architecture (SQLAlchemy)  
 - Ready for ML integration (moderation / recommendations)  
-(📄 from your CV)
 
 ### 🔹 **HDL Automation Tool (Python)**
 - Automatically generates Verilog code & testbenches  
 - Increased workflow efficiency for hardware teams  
-(📄 from your CV)
 
-### 🔹 **RISC-V Processor Implementation (C++ + Verilog ecosystem)**
-- Single-cycle processor  
-- ALU + control + cache  
-- Demonstrates strong systems & architecture knowledge  
-(📄 from your CV)
+
 
 ### 🔹 **Matrix Inversion DSP Module**
 - QR decomposition + CORDIC  
