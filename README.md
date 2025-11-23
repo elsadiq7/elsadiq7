@@ -41,8 +41,24 @@ Ranked **2nd** in my class and published at **IEEE SMACD 2025**.
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
 
 ---
+## 💻 Software Engineering Projects 
 
-## 🚀 Highlighted ML Projects
+### 🔹 **Student Management System (JavaFX + JSON)**
+- Full desktop application  
+- CRUD, validation, responsive UI  
+- Modular JavaFX architecture  
+
+### 🔹 **Social Media Backend (FastAPI + PostgreSQL)**
+- JWT authentication  
+- ORM architecture (SQLAlchemy)  
+- Ready for ML integration (moderation / recommendations)  
+
+### 🔹 **HDL Automation Tool (Python)**
+- Automatically generates Verilog code & testbenches  
+- Increased workflow efficiency for hardware teams  
+
+---
+## 🚀  ML Projects
 
 ### 🔹 **Qwen2.5-0.5B Finetuned Chatbot (LoRA)**
 - Fine-tuned on instruction-following data  
@@ -64,23 +80,8 @@ Ranked **2nd** in my class and published at **IEEE SMACD 2025**.
 - Training pipeline generator  
 - Integrated **MLflow** experiment logging  
 
----
 
-## 💻 Software Engineering Projects (C++ / Java / Python)
 
-### 🔹 **Student Management System (JavaFX + SQLite)**
-- Full desktop application  
-- CRUD, validation, responsive UI  
-- Modular JavaFX architecture  
-
-### 🔹 **Social Media Backend (FastAPI + PostgreSQL)**
-- JWT authentication  
-- ORM architecture (SQLAlchemy)  
-- Ready for ML integration (moderation / recommendations)  
-
-### 🔹 **HDL Automation Tool (Python)**
-- Automatically generates Verilog code & testbenches  
-- Increased workflow efficiency for hardware teams  
 
 
 
