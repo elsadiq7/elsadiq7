@@ -111,6 +111,4 @@ Ranked **2nd** in my class and published at **IEEE SMACD 2025**.
 ## 📫 Contact  
 📧 **abdelrhmanelsadiq53@gmail.com**  
 🔗 **LinkedIn:** https://www.linkedin.com/in/elsadiq  
-🐙 **GitHub:** https://github.com/elsadiq7  
-
 <p align="center"><b>⭐ If you like my work, consider giving a star!</b></p>
