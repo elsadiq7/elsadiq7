@@ -2,7 +2,7 @@
 <h1 align="center">Abdulrahman Elsadiq</h1>
 
 <h3 align="center">Software Engineer | Machine Learning Engineer</h3>
----
+
 
 ## 👋 About Me  
 I’m a **Software & Machine Learning Engineer** with strong programming skills in **Python and C++**, and hands-on experience building:
@@ -43,11 +43,11 @@ I’m a **Software & Machine Learning Engineer** with strong programming skills 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
 
----
+
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elsadiq/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdelrhmanelsadiq53@gmail.com)
 
----
+
 
 ## 📊 GitHub Stats
 
