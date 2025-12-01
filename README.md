@@ -1,8 +1,7 @@
 <!-- Animated Title -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2800&pause=800&color=00C6FF&center=true&vCenter=true&width=650&lines=Abdulrahman+Elsadiq;Software+Engineer+%7C+Machine+Learning+Engineer;Python+%7C+C%2B%2B+%7C+Deep+Learning+%7C+NLP;Building+Scalable+Software+%26+ML+Systems" />
-</p>
+<h1 align="center">Abdulrahman Elsadiq</h1>
 
+<h3 align="center">Software Engineer | Machine Learning Engineer</h3>
 ---
 
 ## 👋 About Me  
