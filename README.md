@@ -1,4 +1,5 @@
-# ⭐ Abdelrhman Elsadig - Software & Machine Learning Engineer
+# ⭐ Abdelrhman Elsadiq
+Software & Machine Learning Engineer
 
 ## 👋 About Me
 Passionate Engineer specializing in the full lifecycle of **Robust Software** and cutting-edge **AI/ML Systems**. I leverage strong **Python** and **C++** skills to build scalable solutions, from low-level processors to high-throughput backends.
