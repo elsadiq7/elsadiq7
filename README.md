@@ -4,7 +4,7 @@ Software & Machine Learning Engineer
 ## 👋 About Me
 Passionate Engineer specializing in the full lifecycle of **Robust Software** and cutting-edge **AI/ML Systems**. I leverage strong **Python** and **C++** skills to build scalable solutions, from low-level processors to high-throughput backends.
 
----
+
 
 ### 🚀 Core Expertise & Focus
 
@@ -18,7 +18,7 @@ Passionate Engineer specializing in the full lifecycle of **Robust Software** an
 * **Academic Excellence:** Ranked **2nd** in class.
 * **Published Research:** Author in the proceedings of **IEEE SMACD 2025**.
 
----
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/elsadiq/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdelrhmanelsadiq53@gmail.com) 
