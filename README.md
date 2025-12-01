@@ -14,7 +14,11 @@ I’m a **Software & Machine Learning Engineer** with strong programming skills 
 - 🗄️ **Backend systems (FastAPI, SQL, Docker)**  
 - 🛠️ **High-quality software engineering projects (JavaFX, processors, automation tools)**  
 
-Ranked **2nd** in my class and published at **IEEE SMACD 2025**.
+
+### 🎓 Achievements
+
+* **Academic Excellence:** Ranked **2nd** in class.
+* **Published Research:** Author in the proceedings of **IEEE SMACD 2025**.
 
 ---
 
@@ -40,24 +44,25 @@ Ranked **2nd** in my class and published at **IEEE SMACD 2025**.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
 
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=elsadiq7&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elsadiq7&layout=compact&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=elsadiq7&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+    <img src="https://nirzak-streak-stats.vercel.app/?user=elsadiq7&theme=dark&hide_border=false" alt="GitHub Streak"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elsadiq7&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
 </p>
 
 ---
-
-## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=elsadiq7&theme=tokyonight&hide_border=true" />
+    [![](https://visitcount.itsvg.in/api?id=elsadiq7&icon=0&color=0)](https://visitcount.itsvg.in)
 </p>
 
----
 
-## 📫 Contact  
-📧 **abdelrhmanelsadiq53@gmail.com**  
-🔗 **LinkedIn:** https://www.linkedin.com/in/elsadiq  
-<p align="center"><b>⭐ If you like my work, consider giving a star!</b></p>
+
+## 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elsadiq/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdelrhmanelsadiq53@gmail.com)
+
+---
