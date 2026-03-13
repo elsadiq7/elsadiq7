@@ -1,7 +1,7 @@
 <!-- Title -->
 <h1 align="center">Abdulrahman Elsadiq</h1>
 <h3 align="center">
-Machine Learning Engineer | FPGA & AI Hardware Acceleration | EDA & Digital Design
+Machine Learning Engineer
 </h3>
 
 ---
