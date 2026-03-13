@@ -17,8 +17,9 @@ I enjoy building **end-to-end ML systems** — from training and fine-tuning mod
 - ⚙️ **AI Hardware Acceleration & FPGA Design**
 - 🧠 **Machine Learning & Deep Learning Systems**
 - 🧪 **LLM Fine-Tuning (LoRA / QLoRA / PPO, RLHF-inspired)**
-- 🧩 **Digital IC Design, Verification & EDA**
 - 🚀 **ML Pipelines, Automation & Deployment**
+-  🧩 **Digital IC Design, Verification & EDA**
+
 
 ---
 
@@ -54,20 +55,6 @@ I enjoy building **end-to-end ML systems** — from training and fine-tuning mod
 
 ---
 
-### **AI Hardware, FPGA & EDA**
-![FPGA](https://img.shields.io/badge/FPGA-6A1B9A?style=for-the-badge&logo=xilinx&logoColor=white)
-![Verilog](https://img.shields.io/badge/Verilog-8E24AA?style=for-the-badge&logoColor=white)
-![SystemVerilog](https://img.shields.io/badge/SystemVerilog-512DA8?style=for-the-badge&logoColor=white)
-![Vivado](https://img.shields.io/badge/Xilinx%20Vivado-E01F27?style=for-the-badge&logoColor=white)
-
-- FPGA prototyping & acceleration  
-- RTL design & digital verification  
-- Vivado, QuestaSim, Spyglass  
-- STA, CDC, DFT, Logic Synthesis  
-- Computer Architecture & RISC-V  
-
----
-
 ### **Software Engineering & Systems**
 ![FastAPI](https://img.shields.io/badge/FastAPI-05998b?style=for-the-badge&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -79,7 +66,19 @@ I enjoy building **end-to-end ML systems** — from training and fine-tuning mod
 - Backend systems & automation  
 - Dockerized ML pipelines  
 - Linux-based development  
+---
 
+### **AI Hardware, FPGA & EDA**
+![FPGA](https://img.shields.io/badge/FPGA-6A1B9A?style=for-the-badge&logo=xilinx&logoColor=white)
+![Verilog](https://img.shields.io/badge/Verilog-8E24AA?style=for-the-badge&logoColor=white)
+![SystemVerilog](https://img.shields.io/badge/SystemVerilog-512DA8?style=for-the-badge&logoColor=white)
+![Vivado](https://img.shields.io/badge/Xilinx%20Vivado-E01F27?style=for-the-badge&logoColor=white)
+
+- FPGA prototyping & acceleration  
+- RTL design & digital verification  
+- Vivado, QuestaSim, Spyglass  
+- STA, CDC, DFT, Logic Synthesis  
+- Computer Architecture & RISC-V  
 ---
 
 ## 🌐 Connect with Me
