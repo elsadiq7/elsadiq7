@@ -1,6 +1,5 @@
 <h1 align="center">Hi, I'm Abdulrahman Elsadiq 👋</h1>
 <h3 align="center">Machine Learning Engineer | LLMs · Fine-Tuning · RAG · Model Optimization</h3>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/elsadiq/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:abdelrhmanelsadiq53@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
@@ -10,7 +9,7 @@
 
 ### 🧠 About Me
 
-I'm a **Machine Learning Engineer** who builds AI systems end-to-end — from training and fine-tuning models to deploying them as production pipelines.
+I'm a **Machine Learning Engineer** who builds AI systems end-to-end, from training and fine-tuning models to deploying them as production pipelines.
 
 My focus is **large language models and applied ML**: fine-tuning (LoRA, QLoRA, RLHF), retrieval-augmented generation, and making models **accurate, efficient, and deployable**. I enjoy taking ideas from recent papers and turning them into working systems.
 
@@ -25,16 +24,17 @@ My focus is **large language models and applied ML**: fine-tuning (LoRA, QLoRA, 
 
 | LLMs & NLP | Deep Learning | ML Systems |
 |---|---|---|
-| Fine-Tuning (LoRA, QLoRA, RLHF, PPO) | CNNs · RNNs · LSTMs · Transformers | Training & Evaluation Pipelines |
+| Fine-Tuning (LoRA, QLoRA, RLHF, PPO) | CNNs, RNNs, LSTMs, Transformers | Training & Evaluation Pipelines |
 | RAG & Retrieval Systems | Model Quantization & Compression | MLOps (MLflow, Docker, CI/CD) |
-| Prompt Engineering | Performance Optimization | FastAPI · Linux Deployment |
+| Prompt Engineering | Performance Optimization | FastAPI, Linux Deployment |
 
 ---
 
 ### 🏆 Highlights
 
-- 🥈 **Ranked 2nd of 184** (Top 1%) — B.Sc. Electronics & Communication Engineering, GPA 3.81/4.0
-- 📄 **IEEE SMACD 2025** — *FPGA-Based Neural Network for Arabic & English Handwritten Digit Recognition*
+- 🥈 **Ranked 2nd of 184** (Top 1%), B.Sc. Electronics & Communication Engineering, GPA 3.81/4.0
+- 📄 **IEEE SMACD 2025**: *FPGA-Based Neural Network for Arabic & English Handwritten Digit Recognition*
+
 ---
 
 ### 🛠️ Tech Stack
@@ -66,7 +66,6 @@ My focus is **large language models and applied ML**: fine-tuning (LoRA, QLoRA, 
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=elsadiq7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elsadiq7&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
 </p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=elsadiq7&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
