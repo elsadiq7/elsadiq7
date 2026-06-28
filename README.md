@@ -11,7 +11,7 @@ Machine Learning Engineer
 I am a **Machine Learning Engineer specializing in AI hardware acceleration, FPGA-based systems, and EDA workflows**.  
 My work bridges **ML algorithms and hardware implementation**, with hands-on experience across **model optimization, quantization, RTL design, and FPGA deployment**.
 
-I enjoy building **end-to-end ML systems** — from training and fine-tuning models to deploying **hardware-aware, efficient solutions** for edge and real-time applications.
+I enjoy building **end-to-end ML systems** from training and fine-tuning models to deploying **hardware-aware, efficient solutions** for edge and real-time applications.
 
 ### 🔍 Core Focus Areas
 - ⚙️ **AI Hardware Acceleration & FPGA Design**
