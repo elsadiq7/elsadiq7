@@ -4,7 +4,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/elsadiq/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:abdelrhmanelsadiq53@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
-  <img src="https://komarev.com/ghpvc/?username=elsadiq7&style=flat&color=blue" alt="Profile views"/>
 </p>
 
 ---
@@ -36,8 +35,6 @@ My focus is **large language models and applied ML**: fine-tuning (LoRA, QLoRA, 
 
 - 🥈 **Ranked 2nd of 184** (Top 1%) — B.Sc. Electronics & Communication Engineering, GPA 3.81/4.0
 - 📄 **IEEE SMACD 2025** — *FPGA-Based Neural Network for Arabic & English Handwritten Digit Recognition*
-- 🤖 Built a **production RAG system** (BM25 + semantic search + Weaviate + LLaMA 3.1) and multiple **LLM fine-tuning** pipelines
-
 ---
 
 ### 🛠️ Tech Stack
