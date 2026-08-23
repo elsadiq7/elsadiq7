@@ -1,6 +1,4 @@
-from pathlib import Path
-
-readme = r'''<h1 align="center">Hi, I'm Abdulrahman Elsadiq 👋</h1>
+<h1 align="center">Hi, I'm Abdulrahman Elsadiq 👋</h1>
 
 <h3 align="center">Machine Learning Engineer · AI for EDA · Efficient AI</h3>
 
@@ -78,15 +76,6 @@ Experiments with model adaptation and grounded generation.
 
 ---
 
-### 📄 Research
-
-I have worked on research spanning **FPGA AI acceleration** and **spiking neural networks**.
-
-- **IEEE SMACD 2025** — *FPGA-Based Neural Network for Arabic and English Handwritten Digit Recognition*
-- **IEEE SEEDA-CECNSM 2026** — *Spiking Neural Networks for Traffic Accident Detection* — accepted
-
----
-
 ### 🧰 Toolbox
 
 **AI / ML**
@@ -122,20 +111,7 @@ I have worked on research spanning **FPGA AI acceleration** and **spiking neural
 
 ---
 
-### 📊 GitHub
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=elsadiq7&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elsadiq7&layout=compact&hide_border=true&langs_count=8" alt="Top Languages"/>
-</p>
-
----
-
 <p align="center">
   <b>Always happy to discuss research, AI systems, FPGA acceleration, or AI for EDA.</b>
 </p>
-'''
 
-path = Path("/mnt/data/README_github_profile.md")
-path.write_text(readme, encoding="utf-8")
-print(path)
