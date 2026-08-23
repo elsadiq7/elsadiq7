@@ -1,6 +1,4 @@
-from pathlib import Path
-
-readme = r'''<h1 align="center">Hi, I'm Abdulrahman Elsadiq 👋</h1>
+<h1 align="center">Hi, I'm Abdulrahman Elsadiq 👋</h1>
 
 <h3 align="center">AI Hardware • AI for EDA • Efficient ML Systems</h3>
 
@@ -242,9 +240,4 @@ I am interested in research collaborations involving:
   <b>Interested in collaborating?</b><br>
   <a href="mailto:abdelrhmanelsadiq53@gmail.com">abdelrhmanelsadiq53@gmail.com</a>
 </p>
-'''
 
-path = Path("/mnt/data/README_research_focused.md")
-path.write_text(readme, encoding="utf-8")
-
-print(f"Created: {path}")
